@@ -10,7 +10,7 @@
 
 <h1 align="center">Active Directory Deployment and Configuration</h1> 
 
-This is the second project in the [comprehensive series of tutorials](https://github.com/vincentchachere/azure-on-prem-ad) on Azure and Active Directory implementation. It simulates an enterprise Active Directory setup in Azure, where we'll deploy and configure Active Directory, create groups and user accounts, then verify the credentials, authentication, and permissions by logging into a client VM with manually generated users. Key topics include AD installation, forest creation, user management, domain integration, and custom Remote Desktop access, providing a strong foundation for future projects.
+This is the second project in the [comprehensive series of tutorials](https://github.com/DavidClarkeIT/Active-Directory-and-Azure-Setup) on Azure and Active Directory implementation. It simulates an enterprise Active Directory setup in Azure, where we'll deploy and configure Active Directory, create groups and user accounts, then verify the credentials, authentication, and permissions by logging into a client VM with manually generated users. Key topics include AD installation, forest creation, user management, domain integration, and custom Remote Desktop access, providing a strong foundation for future projects.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5d4b8c68-d1a6-4a4e-93e3-d8b8602d9123" height="85%" width="85%" alt="9"/><br />
